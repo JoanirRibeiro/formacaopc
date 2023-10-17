@@ -1,10 +1,15 @@
-p {
+.paragrafo1titulo1 {
     color:red;
     font-size: 20px;
     text-align: center;
 }
+.paragrafo2titulo1 {
+    color:blueviolet;
+    font-size: 20px;
+    text-align: center;
+}
 
-h1 {
+#titulo {
     text-align: center;
     font-size: 30;
 }
