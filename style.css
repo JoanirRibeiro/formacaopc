@@ -1,15 +1,19 @@
+body{
+    background-color: #F78CA2;
+}
 .paragrafo1titulo1 {
-    color:red;
+    color:#D80032;
     font-size: 20px;
     text-align: center;
 }
 .paragrafo2titulo1 {
-    color:blueviolet;
+    color:#D80032;
     font-size: 20px;
     text-align: center;
 }
 
 #titulo {
+    color: #3D0C11;
     text-align: center;
     font-size: 30;
 }
