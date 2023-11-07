@@ -17,3 +17,8 @@ body{
     text-align: center;
     font-size: 30;
 }
+
+#banner {
+    margin: 20%;
+    padding: 20%;
+}
