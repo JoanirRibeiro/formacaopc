@@ -1,6 +1,15 @@
-body{
-    background-color: #F78CA2;
+.titulo {
+    background-color: #293462;
 }
+
+.conteudo {
+    background-color: #1CD6CE;
+}
+
+.rodape{
+background-color: #FEDB39;
+}
+
 .paragrafo1titulo1 {
     color:#D80032;
     font-size: 20px;
