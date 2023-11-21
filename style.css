@@ -42,3 +42,9 @@
     margin: 5%;
     padding: 5%;
 }
+
+header {
+    background-color: #293462;
+    border-bottom: 2px solid #FEDB39;
+    padding: 20px;
+    }
